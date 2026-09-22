@@ -1,22 +1,5 @@
 <a href="https://stealth.pm/skills"><img src=".github/og.png" alt="Stealth Skills — design-engineering skills for coding agents" width="100%" /></a>
 
-<pre align="center">
-                    ██
-                  ██
-                ████████
-              ██████████
-            ██████████████
-              ██████████████
-          ████████████████████
-          ██████████████████████
-      ████████████████████████████
-      ██  ██████████████████  ██  ██
-    ██████  ████████████████  ██████
-  ██  ██      ██████  ██████  ██████
-    ████      ████    ████      ██
-              ██
-</pre>
-
 # Stealth Skills
 
 Design-engineering skills for coding agents. Fifteen `SKILL.md` files that teach an agent the things it does not do by default: when *not* to animate, how to set type, which states a screen needs, what a press should feel like, how to review an interface with evidence instead of taste.
