@@ -1,6 +1,21 @@
-<a href="https://stealth.pm/skills">
-  <img src="https://stealth.pm/opengraph-image" alt="Stealth Skills" width="640" />
-</a>
+<a href="https://stealth.pm/skills"><img src=".github/og.png" alt="Stealth Skills — design-engineering skills for coding agents" width="100%" /></a>
+
+<pre align="center">
+                    ██
+                  ██
+                ████████
+              ██████████
+            ██████████████
+              ██████████████
+          ████████████████████
+          ██████████████████████
+      ████████████████████████████
+      ██  ██████████████████  ██  ██
+    ██████  ████████████████  ██████
+  ██  ██      ██████  ██████  ██████
+    ████      ████    ████      ██
+              ██
+</pre>
 
 # Stealth Skills
 
